@@ -3,4 +3,4 @@ For starters you can also go to more tools->extensions->check developer mode->lo
 or
 
 1.Zip the folder.
-2.https://developer.chrome.com/webstore/publish.
+2.Then go this website:https://developer.chrome.com/webstore/publish.
